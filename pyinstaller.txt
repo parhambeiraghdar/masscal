@@ -1,0 +1,2 @@
+pyinstaller.exe --onefile --windowed --icon="Path_of_.ico_file" app.py
+pyinstaller --onefile --add-data "logo.png;." gui.py 
